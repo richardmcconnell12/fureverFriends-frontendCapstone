@@ -1,0 +1,262 @@
+{
+   "users":[],
+    "adoptablePets": [
+        {
+            "name": "Hoss",
+            "breed": "American Staffordshire Terrier",
+            "location": "Nashville",
+            "description": "THIS DOG STEALS HEARTS! This adorable boy is sweet, gorgeous, and comical.  Heâs a snuggler, a lover and a charmer. He loves to walk, play and be a couch potato.  He wiggles for joy when he sees you.  He follows you around the house to help you with your chores.   He is a great and loyal companion. He's great with humans but likely a bit too energetic yet for tiny children.Although he is still youthful he is very trustworthy when left home alone and does not destroy anything in the house (except his toys).  He can be left home alone un-crated and unrestrained.  He's the best youngster I've ever seen like that. Hoss is obedience trained, house trained and crate trained. Hoss is fully vetted, up to date on shots, neutered, heart worm free and micro chipped.   Hoss is afraid of other dogs so we are looking for a home were he can be the only dog to be spoiled by his humans.  He does well and is polite when encountering dogs on his walks but prefers to live as the only dog to bask in his family's love.  TO ADOPT: Hoss will be adopted to an inside forever home/family only.  Must own home.  5ft fence required.  Application, references, vet check and home check required.  Hoss's adoption donation of $200 will be used to pay it forward to help other abandoned and abused pets."
+        },
+        {
+            "@encoding": "iso-8859-1",
+            "@version": "1.0",
+            "petfinder": {
+              "pet": {
+                "options": {
+                  "option": [
+                    {
+                      "$t": "altered"
+                    },
+                    {
+                      "$t": "hasShots"
+                    },
+                    {
+                      "$t": "housetrained"
+                    },
+                    {
+                      "$t": "noDogs"
+                    },
+                    {
+                      "$t": "noCats"
+                    },
+                    {
+                      "$t": "noKids"
+                    }
+                  ]
+                },
+                "status": {
+                  "$t": "A"
+                },
+                "contact": {
+                  "phone": {
+
+                  },
+                  "state": {
+                    "$t": "TN"
+                  },
+                  "address2": {
+
+                  },
+                  "email": {
+                    "$t": "silverrescue@gmail.com"
+                  },
+                  "city": {
+                    "$t": "Nashville"
+                  },
+                  "zip": {
+                    "$t": "37211"
+                  },
+                  "fax": {
+
+                  },
+                  "address1": {
+
+                  }
+                },
+                "age": {
+                  "$t": "Adult"
+                },
+                "size": {
+                  "$t": "L"
+                },
+                "media": {
+                  "photos": {
+                    "photo": [
+                      {
+                        "@size": "pnt",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/1/?bust=1498272516&width=60&-pnt.jpg",
+                        "@id": "1"
+                      },
+                      {
+                        "@size": "fpm",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/1/?bust=1498272516&width=95&-fpm.jpg",
+                        "@id": "1"
+                      },
+                      {
+                        "@size": "x",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/1/?bust=1498272516&width=500&-x.jpg",
+                        "@id": "1"
+                      },
+                      {
+                        "@size": "pn",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/1/?bust=1498272516&width=300&-pn.jpg",
+                        "@id": "1"
+                      },
+                      {
+                        "@size": "t",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/1/?bust=1498272516&width=50&-t.jpg",
+                        "@id": "1"
+                      },
+                      {
+                        "@size": "pnt",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/2/?bust=1498273059&width=60&-pnt.jpg",
+                        "@id": "2"
+                      },
+                      {
+                        "@size": "fpm",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/2/?bust=1498273059&width=95&-fpm.jpg",
+                        "@id": "2"
+                      },
+                      {
+                        "@size": "x",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/2/?bust=1498273059&width=500&-x.jpg",
+                        "@id": "2"
+                      },
+                      {
+                        "@size": "pn",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/2/?bust=1498273059&width=300&-pn.jpg",
+                        "@id": "2"
+                      },
+                      {
+                        "@size": "t",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/2/?bust=1498273059&width=50&-t.jpg",
+                        "@id": "2"
+                      },
+                      {
+                        "@size": "pnt",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/3/?bust=1498273059&width=60&-pnt.jpg",
+                        "@id": "3"
+                      },
+                      {
+                        "@size": "fpm",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/3/?bust=1498273059&width=95&-fpm.jpg",
+                        "@id": "3"
+                      },
+                      {
+                        "@size": "x",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/3/?bust=1498273059&width=500&-x.jpg",
+                        "@id": "3"
+                      },
+                      {
+                        "@size": "pn",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/3/?bust=1498273059&width=300&-pn.jpg",
+                        "@id": "3"
+                      },
+                      {
+                        "@size": "t",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/3/?bust=1498273059&width=50&-t.jpg",
+                        "@id": "3"
+                      },
+                      {
+                        "@size": "pnt",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/4/?bust=1498272306&width=60&-pnt.jpg",
+                        "@id": "4"
+                      },
+                      {
+                        "@size": "fpm",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/4/?bust=1498272306&width=95&-fpm.jpg",
+                        "@id": "4"
+                      },
+                      {
+                        "@size": "x",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/4/?bust=1498272306&width=500&-x.jpg",
+                        "@id": "4"
+                      },
+                      {
+                        "@size": "pn",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/4/?bust=1498272306&width=300&-pn.jpg",
+                        "@id": "4"
+                      },
+                      {
+                        "@size": "t",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/4/?bust=1498272306&width=50&-t.jpg",
+                        "@id": "4"
+                      },
+                      {
+                        "@size": "pnt",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/5/?bust=1498272306&width=60&-pnt.jpg",
+                        "@id": "5"
+                      },
+                      {
+                        "@size": "fpm",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/5/?bust=1498272306&width=95&-fpm.jpg",
+                        "@id": "5"
+                      },
+                      {
+                        "@size": "x",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/5/?bust=1498272306&width=500&-x.jpg",
+                        "@id": "5"
+                      },
+                      {
+                        "@size": "pn",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/5/?bust=1498272306&width=300&-pn.jpg",
+                        "@id": "5"
+                      },
+                      {
+                        "@size": "t",
+                        "$t": "http://photos.petfinder.com/photos/pets/35449254/5/?bust=1498272306&width=50&-t.jpg",
+                        "@id": "5"
+                      }
+                    ]
+                  }
+                },
+                "id": {
+                  "$t": "35449254"
+                },
+                "shelterPetId": {
+                  
+                },
+                "breeds": {
+                  "breed": [
+                    {
+                      "$t": "American Staffordshire Terrier"
+                    },
+                    {
+                      "$t": "Pointer"
+                    }
+                  ]
+                },
+                "name": {
+                  "$t": "Hoss"
+                },
+                "sex": {
+                  "$t": "M"
+                },
+                "description": {
+                  "$t": "NAME:          Hoss\nBREED:        Am Staffordshire Terrier / Pointer mix\nCOLOR:       White with Brindle Accents\nAGE:             Approximately 2.5 - 3 yrs old (as of Jan 2018)\nWEIGHT:      70 lbs\nTEMPMT:      Playful, sweet, puppyish; good sleeping partner;\nHUMANS:     Fantastic with humans - great companion;  \nCHILDREN:   Children over 12 only.  Too bouncy for small children\nPETS:            Prefers to be an only dog; No cats;\nVETTING:     Up to Date on shots; neutered; healthy; micro chipped;\nTRAINING:   House trained; crate trained; obedience trained; \nCONTACT:    SilverRescue@gmail.com\n\nMORE YOUTUBE VIDEOS:  \nhttps://www.youtube.com/watch?v=S0jPH3vXo9w\n\nMORE PIX HERE:    Https://www.facebook.com/243316155792079/photos/?tab=album&album_id=369301063193587\n\nDisclaimer:  THIS DOG STEALS HEARTSâ¦\n\nThis adorable boy is sweet, gorgeous, and comical.  Heâs a snuggler, a lover and a charmer. He loves to walk, play and be a couch potato.  He wiggles for joy when he sees you.  He follows you around the house to help you with your chores.   He is a great and loyal companion. He's great with humans but likely a bit too energetic yet for tiny children.\n\nAlthough he is still youthful he is very trustworthy when left home alone and does not destroy anything in the house (except his toys).  He can be left home alone un-crated and unrestrained.  He's the best youngster I've ever seen like that. \n\nHoss is obedience trained, house trained and crate trained. Hoss is fully vetted, up to date on shots, neutered, heart worm free and micro chipped.   Hoss is afraid of other dogs so we are looking for a home were he can be the only dog to be spoiled by his humans.  He does well and is polite when encountering dogs on his walks but prefers to live as the only dog to bask in his family's love.  \n\nTO ADOPT: \nHoss will be adopted to an inside forever home/family only.  Must own home.  5ft fence required.  Application, references, vet check and home check required.  Hoss's adoption donation of $200 will be used to pay it forward to help other abandoned and abused pets. \n\nIf youâre interested in giving this sweetheart of a dog your heart, please contact SilverRescue@gmail.com for an application.  Hoss Thanks You!\n\nFor more pictures look here:  https://www.facebook.com/243316155792079/photos/?tab=album&album_id=369301063193587\n\nAnd video  https://www.youtube.com/watch?v=S0jPH3vXo9w"
+                },
+                "mix": {
+                  "$t": "yes"
+                },
+                "shelterId": {
+                  "$t": "TN303"
+                },
+                "lastUpdate": {
+                  "$t": "2016-06-21T18:51:39Z"
+                },
+                "animal": {
+                  "$t": "Dog"
+                }
+              },
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "header": {
+                "timestamp": {
+                  "$t": "2019-02-04T16:26:27Z"
+                },
+                "status": {
+                  "message": {
+
+                  },
+                  "code": {
+                    "$t": "100"
+                  }
+                },
+                "version": {
+                  "$t": "0.1"
+                }
+              },
+              "@xsi:noNamespaceSchemaLocation": "http://api.petfinder.com/schemas/0.9/petfinder.xsd"
+            }
+          }
+    ]
+}
